@@ -14,12 +14,12 @@ The first player to reach the winning score wins the game.
 - Win condition detection
 - New Game reset functionality
 
-- ## Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-- ## Game Rules
+## Game Rules
 
 1. Each player rolls the dice in their turn.
 2. The dice number adds to the current score.
