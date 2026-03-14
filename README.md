@@ -26,3 +26,6 @@ The first player to reach the winning score wins the game.
 3. If a player rolls 1, the current score becomes 0 and the turn switches.
 4. A player can press "Hold" to add the current score to their total score.
 5. First player to reach the winning score(10) wins.
+
+## Game Preview
+https://punxxet.github.io/Pig-Game/
